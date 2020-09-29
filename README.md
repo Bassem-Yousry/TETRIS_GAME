@@ -4,4 +4,4 @@
 -H.W : TFT 128*160 Display
 -Data Structure used : Linked List
 
--3 switches are ysed to Move Left,Right and to rotate
+-3 switches are used to Move Left,Right and to rotate
